@@ -1,4 +1,4 @@
-# Weekly I Learned 2
+# Weekly I Learned 3
 
 ## 이미지 분류 (*Image Classification*)
 
